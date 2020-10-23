@@ -1,23 +1,19 @@
-<img src="https://user-images.githubusercontent.com/49369577/97044869-617e2e80-1592-11eb-93da-79724808c2d4.gif" alt="👋 Hi there! I'm Sandul Renuja" title="👋 Hi there! I'm Sandul Renuja"/>
+<img src="https://user-images.githubusercontent.com/49369577/97047278-562d0200-1596-11eb-8a4f-656b2acf2b6a.gif" alt="👋 Hi there! I'm Sandul Renuja" title="👋 Hi there! I'm Sandul Renuja"/>
 <hr>
 <h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java. 😎❤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=0e75b6&style=flat" alt="srenuuu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat" alt="srenuuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sandulr" target="blank"><img src="https://img.shields.io/twitter/follow/sandulr?logo=twitter&style=for-the-badge" alt="sandulr" /></a> </p>
 
 - 🔭 I’m currently working on [Codechef Problems](https://github.com/SRenuuu/CodeChef)
-
 - 🌱 I’m currently learning **Python, Spring Framework and JS**
-
 - 👯 I’m looking to collaborate on **Website development & Java Applications**
-
+- ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`
 - 💬 Ask me about **Java, Graphic Designing, Web Development**
-
 - 📫 Reach me at **sandulrenuja@gmail.com**
-
 - 📄 Know about my experiences [https://my.indeed.com/p/sandulr-jf7nw15](https://my.indeed.com/p/sandulr-jf7nw15)
 
 - ⚡ Fun fact **One of my favorite things to do is eating!**

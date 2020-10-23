@@ -1,10 +1,5 @@
-<iframe src="https://codesandbox.io/embed/zealous-brown-ry9yi?fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="zealous-brown-ry9yi"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-<h1 align="center">Hi 👋, I'm Sandul Renuja</h1>
+<img src="https://user-images.githubusercontent.com/49369577/97040805-24af3900-158c-11eb-8500-056fed1748c8.gif" width="100%" alt="👋 Hi there! I'm Sandul Renuja"/>
+
 <h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=0e75b6&style=flat" alt="srenuuu" /> </p>

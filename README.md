@@ -13,9 +13,9 @@
 - ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`
 - 💬 Ask me about **Java, Graphic Designing, Web Development**
 - 📫 Reach me at **sandulrenuja@gmail.com**
-- 📄 Know about my experiences [https://my.indeed.com/p/sandulr-jf7nw15](https://my.indeed.com/p/sandulr-jf7nw15)
+- 📄 Know about my experiences: [See my resume](https://my.indeed.com/p/sandulr-jf7nw15)
 
-- ⚡ Fun fact **One of my favorite things to do is eating!**
+- ⚡ Fun fact: **One of my favorite things to do is eating!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

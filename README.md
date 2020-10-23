@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/49369577/97040805-24af3900-158c-11eb-8500-056fed1748c8.gif" width="100%" alt="👋 Hi there! I'm Sandul Renuja"/>
+<img src="https://user-images.githubusercontent.com/49369577/97043086-a05eb500-158f-11eb-8a1e-f63ec702b472.gif" width="100%" alt="👋 Hi there! I'm Sandul Renuja"/>
 
 <h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java.</h3>
 

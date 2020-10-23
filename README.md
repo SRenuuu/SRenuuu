@@ -1,9 +1,10 @@
+[![Edit README intro.gif](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/readme-introgif-9fjo5?fontsize=14&hidenavigation=1&theme=dark)
 <h1 align="center">Hi 👋, I'm Sandul Renuja</h1>
 <h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=0e75b6&style=flat" alt="srenuuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&theme=flat&title=Commit,PullRequest" alt="srenuuu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&theme=flat&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sandulr" target="blank"><img src="https://img.shields.io/twitter/follow/sandulr?logo=twitter&style=for-the-badge" alt="sandulr" /></a> </p>
 

@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/49369577/97043566-4ca09b80-1590-11eb-94cc-eff24ef2d93b.gif" width="100%" alt="👋 Hi there! I'm Sandul Renuja"/>
 <hr>
-<h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java.</h3>
+<h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java. 😎❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=0e75b6&style=flat" alt="srenuuu" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, Spring Framework and JS**
 
-- 👯 I’m looking to collaborate on [Website development & Java Applications](applications)
+- 👯 I’m looking to collaborate on **Website development & Java Applications**
 
 - 💬 Ask me about **Java, Graphic Designing, Web Development**
 

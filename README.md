@@ -1,10 +1,10 @@
-<img src="https://user-images.githubusercontent.com/49369577/97043566-4ca09b80-1590-11eb-94cc-eff24ef2d93b.gif" width="100%" alt="👋 Hi there! I'm Sandul Renuja"/>
+<img src="https://user-images.githubusercontent.com/49369577/97044869-617e2e80-1592-11eb-93da-79724808c2d4.gif" alt="👋 Hi there! I'm Sandul Renuja" title="👋 Hi there! I'm Sandul Renuja"/>
 <hr>
 <h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java. 😎❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=0e75b6&style=flat" alt="srenuuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&theme=flat&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu" alt="srenuuu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sandulr" target="blank"><img src="https://img.shields.io/twitter/follow/sandulr?logo=twitter&style=for-the-badge" alt="sandulr" /></a> </p>
 

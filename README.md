@@ -37,3 +37,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srenuuu&show_icons=true&locale=en&layout=compact" alt="srenuuu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srenuuu&show_icons=true&locale=en" alt="srenuuu" /></p>
+
+<hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

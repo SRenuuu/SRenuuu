@@ -7,10 +7,10 @@
 
 <p align="left">
    <a href="https://twitter.com/sandulr" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/sandulr?logo=twitter&style=for-the-badge" alt="Twitter" width="150">
+      <img src="https://img.shields.io/twitter/follow/sandulr?logo=twitter&style=for-the-badge" alt="Twitter">
    </a> 
    <a href="https://linkedin.com/in/sandulr/" target="_blank">
-      <img src="https://img.shields.io/badge/-Sandul Renuja-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn" width="150">
+      <img src="https://img.shields.io/badge/-Sandul Renuja-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn">
    </a>
 </p>
 

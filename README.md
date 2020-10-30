@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sandulr" target="blank"><img src="https://img.shields.io/twitter/follow/sandulr?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
-   <a href="https://linkedin.com/in/sandulr/" target="blank">
+<p align="left"> <a href="https://twitter.com/sandulr" target="_blank"><img src="https://img.shields.io/twitter/follow/sandulr?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
+   <a href="https://linkedin.com/in/sandulr/" target="_blank">
   <img src="https://img.shields.io/badge/-Sandul Renuja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sandulr/" alt="LinkedIn" width="150" >
   </a>
 </p>

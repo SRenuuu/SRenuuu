@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on [Codechef Problems](https://github.com/SRenuuu/CodeChef)
-- 🌱 I’m currently learning **Python, Spring Framework and JS**
+- 🌱 I’m currently learning **Python, Angular and JS**
 - 👯 I’m looking to collaborate on **Website development & Java Applications**
 - ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`
 - 💬 Ask me about **Java, Graphic Designing, Web Development**

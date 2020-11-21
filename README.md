@@ -11,7 +11,7 @@
    </a>
 </p>
 
-- 🔭 I’m currently working on [Codechef Problems](https://github.com/SRenuuu/CodeChef)
+- 🔭 I’m currently working on a Spring MVC Project
 - 🌱 I’m currently learning **Spring Web MVC, Angular and JS**
 - 👯 I’m looking to collaborate on **Website development & Java Applications**
 - ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`

@@ -45,7 +45,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-525503%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-524963%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -53,7 +53,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories
+> 📜 36 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 

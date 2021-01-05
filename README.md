@@ -45,17 +45,17 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529537%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528926%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2021
+> 🏆 2 Contributions in the Year 2021
  > 
 > 📦 39.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories
+> 📜 38 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 

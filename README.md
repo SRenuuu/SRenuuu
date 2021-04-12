@@ -11,8 +11,8 @@
    </a>
 </p>
 
-- 🔭 I’m currently working on a Spring MVC Project
-- 🌱 I’m currently learning **Spring Web MVC, Angular and JS**
+- 🔭 I’m currently working on a React.js Project
+- 🌱 I’m currently learning **React, React Native and JS**
 - 👯 I’m looking to collaborate on **Website development & Java Applications**
 - ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`
 - 💬 Ask me about **Java, Graphic Designing, Web Development**

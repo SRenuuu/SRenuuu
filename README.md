@@ -12,12 +12,10 @@
 </p>
 
 - 🔭 I’m currently working on a React.js Project
-- 🌱 I’m currently learning **React, React Native and JS**
-- 👯 I’m looking to collaborate on **Website development & Java Applications**
-- ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`
-- 💬 Ask me about **Java, Graphic Designing, Web Development**
+- 🌱 I’m currently learning **React & Typescript and also C and C++**
+- ⚙️ I use daily: `.tsx`, `.c`,`.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`
+- 💬 Ask me about **Java, Graphic Designing & Video Editing, Web Development**
 - 📫 Reach me at **sandulrenuja@gmail.com**
-- 📄 Know about my experiences: [See my resume](https://my.indeed.com/p/sandulr-jf7nw15)
 
 - ⚡ Fun fact: **One of my favorite things to do is eating!**
 

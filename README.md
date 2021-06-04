@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/49369577/97047278-562d0200-1596-11eb-8a4f-656b2acf2b6a.gif" alt="👋 Hi there! I'm Sandul Renuja" title="👋 Hi there! I'm Sandul Renuja"/>
-<h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Java. 😎❤</h3>
+<h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Coding. 😎❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat" alt="srenuuu" /> </p>
 
@@ -13,8 +13,8 @@
 
 - 🔭 I’m currently working on a React.js Project
 - 🌱 I’m currently learning **React & Typescript and also C and C++**
-- ⚙️ I use daily: `.tsx`, `.c`,`.java`, `.html`, `.css`, `.js`, `.psd`, `.ai`
-- 💬 Ask me about **Java, Graphic Designing & Video Editing, Web Development**
+- ⚙️ I use daily: `.c`,`.java`, `.html`, `.css`, `.js`, `.tsx`, `.psd`, `.ai`
+- 💬 Ask me about **Coding, Graphic Designing & Video Editing, Web Development**
 - 📫 Reach me at **sandulrenuja@gmail.com**
 
 - ⚡ Fun fact: **One of my favorite things to do is eating!**

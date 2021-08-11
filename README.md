@@ -41,17 +41,17 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 306 Contributions in the Year 2021
+> 🏆 307 Contributions in the Year 2021
  > 
 > 📦 119.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 56 Public Repositories
+> 📜 57 Public Repositories
  > 
 > 🔑 4 Private Repositories 
 

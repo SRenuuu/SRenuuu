@@ -84,13 +84,13 @@ Sunday       63 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-C                        35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 

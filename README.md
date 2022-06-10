@@ -41,13 +41,13 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 198 Contributions in the Year 2022
  > 
-> 📦 143.7 kB Used in Github's Storage 
+> 📦 143.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,14 +84,14 @@ Sunday       42 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Dart                     3 hrs 8 mins        █████████████████████████   100.0%
+Dart                     6 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Android Studio           3 hrs 8 mins        █████████████████████████   100.0% 
+Android Studio           6 mins              █████████████████████████   100.0% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      3 hrs 8 mins        █████████████████████████   100.0%
+Mac                      6 mins              █████████████████████████   100.0%
 
 ```
 

@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/49369577/97047278-562d0200-1596-11eb-8a4f-656b2acf2b6a.gif" alt="👋 Hi there! I'm Sandul Renuja" title="👋 Hi there! I'm Sandul Renuja"/>
 <h3 align="center">A highly enthusiastic, proactive and technically sound individual, passionate for Full Stack Web Dev, Still & Motion Graphics/UI Designing and Coding. 😎❤</h3>
-
+<br>
+<a href="https://app.daily.dev/sandulr"><img src="https://api.daily.dev/devcards/0ac820e4d7bf4fb8a52823b51c67f13e.png?r=0uy" width="400" alt="Sandul Renuja's Dev Card"/></a>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat" alt="srenuuu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>

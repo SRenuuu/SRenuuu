@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/49369577/97047278-562d0200-1596-11eb-8a4f-656b2acf2b6a.gif" alt="👋 Hi there! I'm Sandul Renuja" title="👋 Hi there! I'm Sandul Renuja"/>
-<h3 align="center">A highly enthusiastic, proactive and result oriented CS undergrad, passionate for Full Stack Web and Mobile Dev, UI/UX Designing and Competitive Programming 😎❤</h3>
+<h4 align="center">A highly enthusiastic, proactive and result oriented CS undergrad, passionate for Full Stack Web and Mobile Dev, UI/UX Designing and Competitive Programming 😎❤</h3>
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
 
@@ -73,28 +73,22 @@
 <hr>
 
 <br>
-
-<br>
 <a href="https://app.daily.dev/sandulr"><img src="https://api.daily.dev/devcards/0ac820e4d7bf4fb8a52823b51c67f13e.png?r=0uy" width="240" alt="Sandul Renuja's Dev Card"/></a>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat" alt="srenuuu" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
-<p align="left">
-   <a href="https://linkedin.com/in/sandulr/" target="_blank">
-      <img src="https://img.shields.io/badge/-Sandul Renuja-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn">
-   </a>
-</p>
 
 - 🔭 I’m currently working on a few projects with **React Native and Nest.js**
 - 🌱 I’m currently learning **Nest.js with TS and Machine Learning with Python**
 - ⚙️ I use daily: `.java`,`.ts`, `.tsx`, `.js`, `.py`
 - 💬 Ask me about **Web & Mobile Dev, UI/UX Design, Android & iOS, System Architecture and Design**
-- 📫 Reach me at **[sandulrenuja@gmail.com](mailto:sandulrenuja@gmail.com) and [📞 +94775415464](tel:+94775415464)**
+- 📫 Reach me at **[sandulrenuja@gmail.com](mailto:sandulrenuja@gmail.com) and 📞[+94775415464](tel:+94775415464)**
 
 - ⚡ Fun fact: **One of my favorite things to do is eating!**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
   <a href="https://dev.to/srenuuu" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>

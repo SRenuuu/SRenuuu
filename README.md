@@ -2,7 +2,6 @@
 <h4 align="left">A highly enthusiastic, proactive and result oriented CS undergrad, passionate for Full Stack Web and Mobile Dev, UI/UX Designing and Competitive Programming 😎❤</h4>
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
-
 <hr>
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)

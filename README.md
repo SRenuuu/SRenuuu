@@ -77,14 +77,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat" alt="srenuuu" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
 <br>
+
 - 🔭 I’m currently working on a few projects with **React Native and Nest.js**
 - 🌱 I’m currently learning **Nest.js with TS and Machine Learning with Python**
 - ⚙️ I use daily: `.java`,`.ts`, `.tsx`, `.js`, `.py`
 - 💬 Ask me about **Web & Mobile Dev, UI/UX Design, Android & iOS, System Architecture and Design**
 - 📫 Reach me at **[sandulrenuja@gmail.com](mailto:sandulrenuja@gmail.com) and 📞[+94775415464](tel:+94775415464)**
 
-- ⚡ Fun fact: **One of my favorite things to do is eating!**
+- ⚡ Fun fact: **One of my favorite things to do is trying out new food!**
 <br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srenuuu&show_icons=true&locale=en&layout=compact" alt="srenuuu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srenuuu&show_icons=true&locale=en" alt="srenuuu" /></p>
 <br>

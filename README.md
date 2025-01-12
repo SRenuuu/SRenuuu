@@ -122,7 +122,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-4%20million%20lines%20of%20code-blue)&ensp;
 ![Coding Time](https://img.shields.io/badge/Coded%20last%20year-1142%20hrs%2045%20mins-green)
 
 **🐱 My Github Data** 

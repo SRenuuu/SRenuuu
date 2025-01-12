@@ -74,36 +74,11 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://app.daily.dev/sandulr">
-        <img src="https://api.daily.dev/devcards/0ac820e4d7bf4fb8a52823b51c67f13e.png?r=0uy" width="240" alt="Sandul Renuja's Dev Card"/>
-      </a>
-      <br>
-    </td>
-
-    <td width="20"></td>
-
-    <td align="left">
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat" alt="srenuuu" />
-      </p>
-      
-      <p>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository" alt="srenuuu" />
-        </a>
-      </p>
-
-      <p>
-        <a href="https://linkedin.com/in/sandulr/" target="_blank">
-          <img src="https://img.shields.io/badge/-Sandul Renuja-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| ![Sandul Renuja's Dev Card](https://api.daily.dev/devcards/0ac820e4d7bf4fb8a52823b51c67f13e.png?r=0uy) | ![Profile Views](https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat)  |
+|:----------------------------------------------------------:|:-------------------------------------------------------------------:|
+| [Dev Card](https://app.daily.dev/sandulr)                   | [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository) |
+|                                                            | [LinkedIn Badge](https://img.shields.io/badge/-Sandul%20Renuja-blue?style=for-the-badge&logo=Linkedin)         |
+|                                                            | [LinkedIn Profile](https://linkedin.com/in/sandulr/)                |
 
 
 - 🔭 I’m currently working on a few projects with **React Native and Nest.js**

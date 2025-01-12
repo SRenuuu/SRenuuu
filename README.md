@@ -76,6 +76,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srenuuu&label=Profile%20views&color=43cc11&style=flat" alt="srenuuu" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srenuuu&title=Commit,PullRequest,Repository" alt="srenuuu" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srenuuu&show_icons=true&locale=en&layout=compact" alt="srenuuu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srenuuu&show_icons=true&locale=en" alt="srenuuu" /></p>
 <br>
 
 - 🔭 I’m currently working on a few projects with **React Native and Nest.js**
@@ -87,16 +89,13 @@
 - ⚡ Fun fact: **One of my favorite things to do is trying out new food!**
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srenuuu&show_icons=true&locale=en&layout=compact" alt="srenuuu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srenuuu&show_icons=true&locale=en" alt="srenuuu" /></p>
-<br>
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/srenuuu" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="https://twitter.com/sandulr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x/sandulr" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sandulr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
